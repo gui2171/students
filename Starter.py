@@ -40,9 +40,9 @@ ANKI_DECK_NAME = "DERDIEDAS"  # Base name, date will be appended
 
 
 # Email configuration
-FROM_EMAIL = "guillermo.s.a4@gmail.com"  # Using the provided example
-TO_EMAIL = "guiferraz84@yahoo.com.br"  # Using the provided example
-APP_PASSWORD = "glyf tmyw zvyl sjma"  # Using the provided example
+FROM_EMAIL = "example@email.com"  # Using the provided example
+TO_EMAIL = "example@email.com"  # Using the provided example
+APP_PASSWORD = "keymodel"  # Using the provided example
 
 
 # Global dictionary to store process information and last run times
